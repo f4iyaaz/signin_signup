@@ -1,5 +1,5 @@
 const test = (req, res) => {
-    res.json({message: 'big brother is watching you'})
+    res.json({message: 'testing...'})
 }
 
 module.exports = test
